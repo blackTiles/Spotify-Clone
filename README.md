@@ -67,7 +67,7 @@ A complete Spotify clone application built with the MERN stack featuring a user-
 ## 📁 Project Structure
 
 ```
-spotify-full-stack/
+spotify-clone/
 ├── spotify-backend/           # Backend API server
 │   ├── src/
 │   │   ├── config/           # Database and Cloudinary config
@@ -110,8 +110,8 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd spotify-full-stack-master
+git clone https://github.com/blackTiles/Spotify-Clone.git
+cd spotify-clone
 ```
 
 ### 2. Install Backend Dependencies
