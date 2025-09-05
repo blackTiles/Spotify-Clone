@@ -1,6 +1,6 @@
-# Spotify Clone - User Interface
+# Spotify Community - User Interface
 
-A React-based music streaming application that replicates the core functionality of Spotify. Users can browse and play music with a modern, responsive interface.
+A React-based music streaming application that brings the community together through music. Users can browse and play music with a modern, responsive interface designed for music lovers.
 
 ## Features
 

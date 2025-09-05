@@ -1,0 +1,31 @@
+{
+  "name": "spotify-community",
+  "version": "1.0.0",
+  "description": "A complete music streaming platform with admin panel and community-driven user interface",
+  "scripts": {
+    "install-all": "cd spotify-backend && npm install && cd ../spotify-admin && npm install && cd ../spotify-clone && npm install",
+    "dev:backend": "cd spotify-backend && npm run dev",
+    "dev:admin": "cd spotify-admin && npm run dev",
+    "dev:clone": "cd spotify-clone && npm run dev",
+    "build:admin": "cd spotify-admin && npm run build",
+    "build:clone": "cd spotify-clone && npm run build"
+  },
+  "keywords": [
+    "spotify",
+    "music",
+    "streaming",
+    "community",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb",
+    "full-stack",
+    "open-source"
+  ],
+  "author": "Swayam Panda <youremail@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackTiles/Spotify-Clone.git"
+  }
+}
