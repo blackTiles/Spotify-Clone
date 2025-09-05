@@ -135,7 +135,7 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/blackTiles/Spotify-Clone.git
+git clone https://github.com/blackTiles/Spotify-Community.git
 cd spotify-clone
 ```
 
